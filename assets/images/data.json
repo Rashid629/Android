@@ -1,0 +1,35 @@
+[
+  {
+    "placeImage": "assets/images/Achari.jpg",
+    "placeName": "Garlic Achari Rice",
+    "placeDesc": ["Garlic","Rice","Chicken Katsu"]
+  },
+  {
+    "placeImage": "assets/images/binge.jpg",
+    "placeName": "Chicken Binge Burger",
+    "placeDesc": ["3*Patty","Cheese","Bacon"]
+  },
+  {
+    "placeImage": "assets/images/drum.jpg",
+    "placeName": "Naga Drums",
+    "placeDesc": ["Chicken Leg ","Extra Spicy"]
+  }
+,
+  {
+    "placeImage": "assets/images/finger.jpg",
+    "placeName": "Fish Fingers",
+    "placeDesc": ["Fish Fillets Deep fried"]
+  }
+,
+  {
+    "placeImage": "assets/images/fish.jpg",
+    "placeName": "Fish Burger",
+    "placeDesc": ["Dory Fish","Deep Fried"]
+  }
+,
+  {
+    "placeImage": "assets/images/naga.jpg",
+    "placeName": "Naga Blast",
+    "placeDesc": ["Extreme Naga","2* Patty"]
+  }
+]

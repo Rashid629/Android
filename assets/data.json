@@ -1,0 +1,35 @@
+[
+  {
+    "placeImage": "assets/images/Achari.jpg",
+    "placeName": "Garlic Achari Rice",
+    "placeDesc": ["Garlic","Rice","Chicken Katsu"]
+  },
+  {
+    "placeImage": "assets/images/shah.jpg",
+    "placeName": "Shah Poutine",
+    "placeDesc": ["Fries","Egg ","Cheese Sauce"]
+  },
+  {
+    "placeImage": "assets/images/cheese.jpg",
+    "placeName": "Chicken Cheese ",
+    "placeDesc": ["chicken","cheese","Fried"]
+  }
+,
+  {
+    "placeImage": "assets/images/binge.jpg",
+    "placeName": "Binge Burger",
+    "placeDesc": ["3*Patty","Cheese","Bacon"]
+  }
+,
+  {
+    "placeImage": "assets/images/mango.jpg",
+    "placeName": "Mango Herb Chicken",
+    "placeDesc": ["Mango Chicken","Rice","Sides"]
+  }
+,
+  {
+    "placeImage": "assets/images/mushroom.jpg",
+    "placeName": "Garlic Mushroom",
+    "placeDesc": ["Garlic","Mushroom"]
+  }
+]
